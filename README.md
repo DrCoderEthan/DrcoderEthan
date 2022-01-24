@@ -11,14 +11,21 @@
 ```py
 class DrCoderEthan(self,Programmer:True):
     if Programmer == True:
-          self.activites = ["Coding", "Music", "Games", "knowledge"]
-          self.projects = ["Jarvis-bot Discord Bot" , "Front-end developments", "Game Devlopment(UNITY)"]
-          self.student = True
-          self.color = "yellow"
-          self.food = "Spaghetti Mafia"
-          self.football_Fans = ["Spurs", "Manchester united"]
+          @staticmethod
+          def aboutme(self)
+            self.activites = ["Coding", "Music", "Games", "knowledge"]
+            self.student = True
+            self.color = "yellow"
+            self.food = "Spaghetti Mafia"
+            self.football_Fans = ["Spurs", "Manchester united"]
+          @staticmethod
+          def projects(self)
+             self.projects = ["Jarvis-bot Discord Bot" , "Front-end developments", "Game Devlopment(UNITY)"]
      else:
-         print("Still hello 👋") # idk really 
+         print("Still hello 👋") # idk really
+
+WhoAmI = DrCoderEthan.aboutme
+Projects = DrCoderEthan.projects
     
 
 ```

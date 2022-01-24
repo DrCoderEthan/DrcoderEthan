@@ -24,7 +24,7 @@ class DrCoderEthan(self,Programmer:True):
      else:
          print("Still hello 👋") # idk really
 
-WhoAmI = DrCoderEthan.aboutme()
+Who_Am_I = DrCoderEthan.aboutme()
 Projects = DrCoderEthan.projects()
     
 

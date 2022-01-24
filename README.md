@@ -23,5 +23,4 @@ class DrCoderEthan(self,Programmer:True):
 
 ```
 
-![DrCoderEthan GitHub stats](https://github-readme-stats.vercel.app/api?username=DrCoderEthan&show_icons=true&theme=gruvbox)           
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrCoderEthan&theme=gruvbox)
+![DrCoderEthan GitHub stats](https://github-readme-stats.vercel.app/api?username=DrCoderEthan&show_icons=true&theme=gruvbox)&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrCoderEthan&theme=gruvbox)

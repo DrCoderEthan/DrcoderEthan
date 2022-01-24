@@ -24,8 +24,8 @@ class DrCoderEthan(self,Programmer:True):
      else:
          print("Still hello 👋") # idk really
 
-WhoAmI = DrCoderEthan.aboutme
-Projects = DrCoderEthan.projects
+WhoAmI = DrCoderEthan.aboutme()
+Projects = DrCoderEthan.projects()
     
 
 ```

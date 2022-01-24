@@ -5,7 +5,7 @@
 -->
 # Projects
 
-**[Jarvis-bot Discord Bot]**(https://top.gg/bot/787957517099073536)
+**[Jarvis-bot Discord Bot](https://top.gg/bot/787957517099073536)**
 
 
 ```py

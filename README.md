@@ -17,7 +17,7 @@ class DrCoderEthan(self,Programmer:True):
             self.student = True
             self.color = "yellow"
             self.food = "Spaghetti Mafia"
-            self.football_Fans = ["Spurs", "Manchester united"]
+            self.football_Fans = ['Spurs aka Tottenham Hotspur' #COYS]
           @staticmethod
           def projects(self)
              self.projects = ["Jarvis-bot Discord Bot" , "Front-end developments", "Game Devlopment(UNITY)"]

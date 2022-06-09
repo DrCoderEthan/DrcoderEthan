@@ -11,7 +11,7 @@
 
 
 ```py
-class DrCoderEthan(self,Programmer:True):
+class Ethan(self,Programmer:True):
     if Programmer == True:
           @staticmethod
           def aboutme(self)
@@ -20,14 +20,15 @@ class DrCoderEthan(self,Programmer:True):
             self.color = "yellow"
             self.food = "Spaghetti Mafia"
             self.football_Fans = ['Spurs aka Tottenham Hotspur' #COYS]
+            
           @staticmethod
           def projects(self)
              self.projects = ["Jarvis-bot Discord Bot" , "Front-end developments", "Game Devlopment(UNITY)"]
      else:
          print("Still hello 👋") # idk really
 
-Who_Am_I = DrCoderEthan.aboutme()
-Projects = DrCoderEthan.projects()
+Who_Am_I = Ethan.aboutme()
+Projects = Ethan.projects()
     
 
 ```

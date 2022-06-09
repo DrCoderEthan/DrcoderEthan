@@ -11,20 +11,24 @@
 
 
 ```py
-class Ethan(self,Programmer:True):
+class DrCoderEthan(self,Programmer:True):
     if Programmer == True:
           @staticmethod
           def aboutme(self)
             self.activites = ["Coding", "Music", "Games", "knowledge"]
             self.student = True
             self.color = "yellow"
-            self.food = "Spaghetti"
+            self.food = "Spaghetti Mafia"
             self.football_Fans = ['Spurs aka Tottenham Hotspur' #COYS]
+          @staticmethod
+          def projects(self)
+             self.projects = ["Jarvis-bot Discord Bot" , "Front-end developments", "Game Devlopment(UNITY)"]
      else:
          print("Still hello 👋") # idk really
 
-Who_Am_I = Ethan.aboutme()
-Projects = Ethan.projects()
+Who_Am_I = DrCoderEthan.aboutme()
+Projects = DrCoderEthan.projects()
+    
     
 
 ```

@@ -18,12 +18,8 @@ class Ethan(self,Programmer:True):
             self.activites = ["Coding", "Music", "Games", "knowledge"]
             self.student = True
             self.color = "yellow"
-            self.food = "Spaghetti Mafia"
+            self.food = "Spaghetti"
             self.football_Fans = ['Spurs aka Tottenham Hotspur' #COYS]
-            
-          @staticmethod
-          def projects(self)
-             self.projects = ["Jarvis-bot Discord Bot" , "Front-end developments", "Game Devlopment(UNITY)"]
      else:
          print("Still hello 👋") # idk really
 

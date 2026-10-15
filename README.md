@@ -11,7 +11,7 @@
 
 **[Jarvis-bot Discord Bot](https://top.gg/bot/787957517099073536)**
 
-**[LearnEzy Discord Bot](https://github.com/DrCoderEthan/LearnEzy**
+**[LearnEzy Discord Bot](https://github.com/DrCoderEthan/LearnEzy)**
 
 
 ```py
